@@ -1,4 +1,4 @@
-# AI for Bioinformatics Projek
+# AI for Bioinformatics Projects
 berikut adalah projek AI yang sedang dikembangkan dibidang bioinformatika
 
 ## AI for ReVa(Reverse Vaccinology) dan AI for Vaccine Discovery
