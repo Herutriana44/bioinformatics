@@ -1,7 +1,7 @@
 # AI for Bioinformatics Projects
 berikut adalah projek AI yang sedang dikembangkan dibidang bioinformatika :
 
-![Bioinformatics](https://www.mayo.edu/-/media/kcms/gbs/research/images/2019/02/06/15/18/genetics-bioinformatics-shu-571040611-8col.jpg)
+![Bioinformatics](https://jcsmr.anu.edu.au/files/styles/anu_full_920_518/public/BiomedicalInformatics_Translational-Bioinformatics_BIOMEDIN217.jpg?itok=5LHw2spy)
 
 ## AI for ReVa(Reverse Vaccinology) dan AI for Vaccine Discovery
 1. [Komparasi algoritma prediksi Epitop COVID-19 Sel B, formasi split data beserta skala hidrofobik](https://github.com/Herutriana44/Covid19LinearBcellEpitopePrediction)
