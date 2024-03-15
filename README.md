@@ -30,4 +30,4 @@ all of my bioinformatics project as my portfolio
 [The Antibiotic Resistance Ontology Machine Learning](https://github.com/Herutriana44/TheAntibioticResistanceOntologyMachineLearning)
 
 ## Bioinformatics Research Internship BRIN
-[Epidermolysis Bullosa Meta Analysis]https://github.com/Herutriana44/MetaAnalisisEB
+[Epidermolysis Bullosa Meta Analysis](https://github.com/Herutriana44/MetaAnalisisEB)
