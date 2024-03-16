@@ -9,10 +9,12 @@ all of my bioinformatics project as my portfolio
 ## AI for ReVa(Reverse Vaccinology) dan AI for Vaccine Discovery
 1. [Comparison of COVID-19 B Cell Epitope prediction algorithms, split data formation along with hydrophobicity scale](https://github.com/Herutriana44/Covid19LinearBcellEpitopePrediction)
 2. [Epitope Prediction Using Quantum Machine Learning Algorithms](https://github.com/Herutriana44/QuantumEpitopePredictionCovid19)
-3. [Allergenicity Prediction with CNN](https://github.com/Herutriana44/AllergenicityPredictionCNN)
-4. [Toxicity Prediction with CNN](https://github.com/Herutriana44/ToxinPredictionCNN)
-5. [REVA Vaccine Design AI Software](https://mega.nz/file/wbhkXSZb#puTenk91zGieoX3KBngwVYppj1tfYZLAOXkBcd2PaDM)
-6. [Scoring Function with Regression Algorithm](https://github.com/Herutriana44/Regression-Based-Scoring-Function)
+3. [Antigenicity Prediction With CNN Or Quantum Variational Circuit](https://github.com/Herutriana44/AntigenicityPredictionCNN)
+4. [Allergenicity Prediction with CNN Or Quantum Variational Circuit](https://github.com/Herutriana44/AllergenicityPredictionCNN)
+5. 
+6. [Toxicity Prediction with CNN Or Quantum Variational Circuit](https://github.com/Herutriana44/ToxinPredictionCNN)
+7. [REVA Vaccine Design AI Software](https://mega.nz/file/wbhkXSZb#puTenk91zGieoX3KBngwVYppj1tfYZLAOXkBcd2PaDM)
+8. [Scoring Function with Regression Or Quantum Regression Based](https://github.com/Herutriana44/Regression-Based-Scoring-Function)
 
 ## AI Generative Pesticide
 [Generative Pesticide AI or Generative AI for redesigning the chemical structure of pesticides](https://github.com/Herutriana44/AIGPesticide)
