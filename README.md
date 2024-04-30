@@ -44,3 +44,7 @@ all of my bioinformatics project as my portfolio
 
 ## Bioinformatics Research Internship BRIN
 [Epidermolysis Bullosa Meta Analysis](https://github.com/Herutriana44/MetaAnalisisEB)
+
+## Large Language Model In Bioinformatics
+1. [Fine Tune Llama 2 For Drug Smiles Summarizer](https://github.com/Herutriana44/natural-language-processing/blob/main/Fine_Tune_Llama2_For_Drug_Smiles_Summarizer.ipynb)
+2. [Fine Tune Llama 2 For Knapsack Jamu Core Knowledge](https://github.com/Herutriana44/natural-language-processing/blob/main/Fine_Tune_Llama2_For_Knapsack_Jamu_Core_Knowledge.ipynb)
