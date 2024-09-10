@@ -1,7 +1,7 @@
 # Bioinformatics Projects
 all of my bioinformatics project as my portfolio
 
-![Bioinformatics](https://jcsmr.anu.edu.au/files/styles/anu_full_920_518/public/BiomedicalInformatics_Translational-Bioinformatics_BIOMEDIN217.jpg?itok=5LHw2spy)
+![Bioinformatics](https://blog.maukuliah.id/wp-content/uploads/2023/02/Bioinformatika.jpg)
 
 ## First Simple Bioinformatics Program
 [ProtinaPy](https://github.com/Herutriana44/protinapy)
